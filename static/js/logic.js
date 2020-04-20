@@ -37,6 +37,11 @@ var cities = [{
   year: "2014-2015"
 },
 {
+  location: [50.087811, 14.420460],
+  name: "Prague, Czhecia",
+  year: "2012"
+},
+{
   location: [23.810331, 90.412521],
   name: "Dhaka, Bangladesh",
   year: "2015-2016"
