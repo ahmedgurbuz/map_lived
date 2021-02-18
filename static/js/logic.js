@@ -61,6 +61,11 @@ var cities = [{
   name: "Dallas, TX",
   year: "2016-2020"
 },
+{
+  location: [38.846226, -77.306374],
+  name: "Fairfax, VA",
+  year: "2020-Present"
+},
 ];
 
 // Loop through the cities array and create one marker for each city, bind a popup containing its name and population add it to the map
